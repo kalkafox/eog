@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Custom F4 Menu for DarkRP RX2  for 2.5.0"
+	"version"			"1.2"
+	"up_date"			""
+	"author_name"			"RocketMania"
+	"author_email"			"jmh3268@gmail.com"
+	"author_url"			""
+	"info"				"if you have question. contact me. my steam id is mupama"
+	"override"			"0"
+}
